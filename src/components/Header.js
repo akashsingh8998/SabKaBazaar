@@ -9,7 +9,6 @@ const Header = {
                 <div class="signin-container">
                     <a href="/signin">Sign in</a>
                     <a href="/register">Register</a>
-                    <a href="/register">hello</a>
                 </div>
                 <div class="header-menus">
                     <div class="header-menu-items">
